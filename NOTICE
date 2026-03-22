@@ -1,0 +1,17 @@
+NOTICE — Third-Party Software Attribution
+==========================================
+
+This repository (roundabout) is based on Headscale.
+
+Original Project: Headscale
+Original Repository: https://github.com/juanfont/headscale
+Original License: BSD-3-Clause
+
+The original code is copyright its respective authors and is used in
+compliance with the BSD-3-Clause license. BlackRoad OS, Inc.
+modifications and additions are proprietary.
+
+A copy of the original BSD-3-Clause license can be found at:
+https://github.com/juanfont/headscale/blob/main/LICENSE
+
+© 2024-2026 BlackRoad OS, Inc. All rights reserved for modifications.
