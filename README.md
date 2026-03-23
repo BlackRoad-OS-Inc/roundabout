@@ -1,3 +1,11 @@
+# roundabout
+
+> RoundAbout — Sovereign VPN coordination. BlackRoad fork of Headscale. Self-hosted WireGuard control plane.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # RoundAbout — BlackRoad Road Fleet
 
 > **Sovereign VPN coordination.** Fork of [Headscale](https://github.com/juanfont/headscale).
